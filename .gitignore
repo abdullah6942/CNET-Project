@@ -1,0 +1,38 @@
+# Ignore dataset files
+*.csv
+
+# Ignore model files
+*.pth
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore environment files
+.env
+.venv/
+venv/
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore test outputs
+*.out
+*.tmp
+
+# Ignore backup files
+*~
+*.bak
+
+# Ignore iteration folders if needed (uncomment if required)
+# Iteration 3 (Base Paper Implementation)/
+# CNET Iteration 4/

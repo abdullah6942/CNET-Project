@@ -1,0 +1,16 @@
+# Ignore dataset files in this folder
+*.csv
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.out
+
+# Ignore backup files
+*~
+*.bak
